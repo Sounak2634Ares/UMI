@@ -12,7 +12,7 @@ UMI is a versatile AI assistant designed to handle time tracking, Indian public 
 
 Clone the repository and install the dependencies: 
 
-git clone https://github.com/yourusername/umi-ai.git
+git clone https://github.com/Sounak2634Ares/UMI.git
 cd umi-ai
 pip install -r requirements.txt
 
